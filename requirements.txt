@@ -1,0 +1,2 @@
+asyncio-pool==0.5.1
+scapy==2.4.4
